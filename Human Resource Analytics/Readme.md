@@ -8,5 +8,5 @@ Step 6: Hyerparameter Tuning of Final Models<br>
 Step 7: Ensembling Frameworks<br>
 Step 8: Exploring other models to improve ensemble framework<br>
 
-<img src="[image_url](https://github.com/SatyamNeelmani/My_Data_Science_Portfolio/blob/main/Human 20Resource Analytics/Assets/Screenshot 202024-05-03 20071055.png)" alt="Rank 3rd">
+<img src="[image_url](https://github.com/SatyamNeelmani/My_Data_Science_Portfolio/blob/c708874d968fa14f55de5008a34c539011411e4f/Human%20Resource%20Analytics/Assets/Screenshot%202024-05-03%20071055.png)" alt="Rank 3rd">
 
