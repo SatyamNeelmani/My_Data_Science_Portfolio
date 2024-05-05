@@ -16,4 +16,6 @@ Step 3.2: Preprocessing, Weight of Evidence and Information Value Analysis on De
 Step 3.3: Feature Engineering and Feature Scaling<br>
 Step 3.4: Model Building : Logistic Regression, Decision Tree, Random Forest, XGBoost, CatBoost, LGBM, AdaBoost, Gradient Boost<br>
 Step 3.5: Ensembling Framework<br>
-============================= Financial Benefit Analysis and Project Presentation =============================<br>
+========== Financial Benefit Analysis and Project Presentation ========== <br>
+Step 4.1 PowerBI Dashboard
+Step 4.2 Powerpoint Presentation
